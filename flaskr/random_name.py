@@ -14,7 +14,7 @@ lis_names = ["Cherish", "Damaris", "Oren", "Nona", "Rhona", "Jackqueline",
              "Heather", "Burl", "Drucilla", "Chanelle", "Taina", "Palma",
              "Carmine", "Sharee", "Franklin", "Isidra", "Belen", "Gisela",
              "Sharlene", "Vonnie", "Perry", "Jeromy", "Esmeralda",
-             "Letha", "Brianne", "Bennie", "Nancy", "Shaina", "Kelvin", "Marcel"]
+             "Letha", "Brianne", "Bennie", "Nancy", "Shaina", "Kelvin"]
 
 
 def random_name():
