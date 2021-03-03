@@ -2,7 +2,7 @@
 # After build the workflow will run all unit tests with pytest using a test matrix
 # On successful build and test it will create a docker image for productive environment and push it to a repository
 
-name: PROD - CI Pipeline
+name: STAGE - Matrix Test
 
 on:
   pull_request:
